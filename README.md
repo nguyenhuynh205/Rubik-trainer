@@ -1,7 +1,7 @@
 # Rubik Trainer
 
 ## Demo App
-
+<a href="https://drive.google.com/file/d/1KF9XVaecfH_Uc3s4RgIV8bv7Z44KnA0P/view">Link Demo<a>
 
 
 ## Table of Contents
@@ -25,13 +25,10 @@
 ## Screenshots
 
 <p float='left'>
-<!-- <img src="images/home.png" width="45%" alt='screen1'>
-<img src="images/VideoHome.jpg" width="45%" alt='screen1'>
-<img src="images/Video.jpg" width="45%" alt='screen1'>
-<img src="images/QuizHome.jpg" width="45%" alt='screen1'>
-<img src="images/QuizAns.jpg" width="45%" alt='screen1'>
-<img src="images/PuzzleHome.jpg" width="45%" alt='screen1'>
-<img src="images/Puzzle.jpg" width="45%" alt='screen1'> -->
+<img src="images/s1.png" width="45%" alt='screen1'>
+<img src="images/s2.png" width="45%" alt='screen1'>
+<img src="images/s3.png" width="45%" alt='screen1'>
+<img src="images/s4.png" width="45%" alt='screen1'>
 </p>
 
 ## Getting Started
