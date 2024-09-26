@@ -15,6 +15,7 @@
         -   [Installation](#installation)
 
 ## About
+An app that guides users on how to solve different types of Rubik's cubes through videos, displays major Rubik's competitions throughout the year, allows users to schedule events within the app, and shows personal information pages.
 
 ## Features
 
